@@ -25,7 +25,7 @@ const projects = [{
         techstack: ['html5', 'css-3', 'mongo', 'react-2', 'nodejs'],
         frontend: "https://github.com/Ragulprabhu196/gmail-clone",
         backend: "https://github.com/Ragulprabhu196/gmail-clone",
-        deploymentUrl: "playful-torrone-cf80a3.netlify.app/",
+        deploymentUrl: "https://playful-torrone-cf80a3.netlify.app/",
         description: ` Gmail is an email service . This is characterized by being totally free and multi-device,so that we can access it from any device as long as we have an Internet connection.`
     },
     {
